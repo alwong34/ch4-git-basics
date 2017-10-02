@@ -20,6 +20,8 @@ text editor of your choice
 
 5. In the `README.md` file, make an ordered list of what you ate for
 breakfast today
+  1. nothing
+  2. nothing
 
 6. Using your terminal, add and commit the changes you've made to your repository
 
